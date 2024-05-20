@@ -47,3 +47,5 @@ Entusiasta por la tecnología, actualmente en transición profesional hacia el c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiriamAguilarP13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiriamAguilarP13&repo=github-readme-stats)](https://github.com/MiriamAguilarP13/github-readme-stats)
+
