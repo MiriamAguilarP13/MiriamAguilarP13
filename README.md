@@ -16,7 +16,7 @@
 
 ### :woman_technologist: Sobre mí :
 
-Entusiasta por la tecnología, actualmente en transición profesional hacia el campo del análisis de datos. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Analista de datos con formación en ingeniería y biotecnología, apasionada por transformar datos complejos en decisiones inteligentes. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :atom: Actualmente he completado un riguroso programa de estudio en TripleTen, en donde he adquirido y fortalecido mis habilidades en análisis de datos :muscle:
 
