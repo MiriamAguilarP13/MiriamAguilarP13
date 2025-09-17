@@ -62,19 +62,13 @@ Analista de datos con formación en ingeniería y biotecnología, apasionada por
 
 ---
 
+### 💌 Conectemos
+
+Si quieres revisar mis proyectos, colaborar o conversar sobre análisis de datos:  [![Linkedin Badge](https://img.shields.io/badge/-Miriam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miriampineda02)
+
 ### 🔥 Mis estadísticas en GitHub
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiriamAguilarP13&theme=dark&background=000000)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiriamAguilarP13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### 💌 Conectemos
-
-Si quieres revisar mis proyectos, colaborar o conversar sobre análisis de datos:  [![Linkedin Badge](https://img.shields.io/badge/-Miriam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miriampineda02)
-
-### :fire: Mis estadísticas :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiriamAguilarP13&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiriamAguilarP13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
